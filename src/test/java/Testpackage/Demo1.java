@@ -9,4 +9,12 @@ public class Demo1 {
     public void football(){
         System.out.println("Football");
     }
+
+    public void tennis(){
+        System.out.println("Tennis");
+    }
+
+    public void rugBy(){
+        System.out.println("RugBy");
+    }
 }
