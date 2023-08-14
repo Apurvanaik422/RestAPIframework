@@ -9,4 +9,7 @@ public class Test {
     public void extentReports(){
         System.out.println("extentReports");
     }
+    public void logging(){
+        System.out.println("Logging");
+    }
 }
