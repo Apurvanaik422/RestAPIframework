@@ -1,0 +1,6 @@
+resourses\ApiResource.class
+resourses\TestData.class
+resourses\Utils.class
+stepDefenitions\Hooks.class
+stepDefenitions\Steps.class
+cucumber\Options\TestRunner.class
